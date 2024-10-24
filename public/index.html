@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/output.css">
+    <title>CES Login</title>
+</head>
+<body class="min-h-screen flex items-center justify-center bg-cover bg-no-repeat bg-center" style="background-image: url('../assets/21.png');">
+    <!-- login container -->
+    <section class="bg-white border border-gray-200 rounded-2xl shadow-lg w-full max-w-4xl p-8 flex items-center gap-8 md:gap-14">
+
+        <!-- form -->
+        <div class="md:w-1/2 w-full space-y-4">
+            <div class="text-center">
+                <img class="w-32 h-32 mx-auto mb-4" src="../assets/ces-logo.png" alt="CES Logo">
+                <h2 class="text-2xl font-bold">CES Point Tracker</h2>
+            </div>
+
+            <p class="text-sm text-[#002D74]">If you are already a member, easily log in</p>
+
+            <form action="" class="space-y-4">
+                <input class="p-3 rounded-xl border border-gray-300 w-full" type="email" name="email" placeholder="Email">
+                <div class="relative">
+                    <input class="p-3 rounded-xl border border-gray-300 w-full" type="password" name="password" placeholder="Password">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 absolute top-1/2 right-3 -translate-y-1/2 text-gray-400 cursor-pointer" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8zM1.173 8a13.133 13.133 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5c2.12 0 3.879 1.168 5.168 2.457A13.133 13.133 0 0 1 14.828 8c-.058.087-.122.183-.195.288-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5c-2.12 0-3.879-1.168-5.168-2.457A13.134 13.134 0 0 1 1.172 8z"/>
+                        <path d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0z"/>
+                    </svg>
+                </div>
+
+                <!-- Remember Me and Forgot Password -->
+                <div class="flex justify-between items-center text-sm text-[#002D74]">
+                    <div class="flex items-center">
+                        <input type="checkbox" id="remember-me" class="mr-2">
+                        <label for="remember-me">Remember me</label>
+                    </div>
+                    <a href="#" class="hover:underline text-red-600">Forgot your password?</a>
+                </div>
+
+                <button class="bg-[#002D74] text-white rounded-xl py-3 w-full hover:scale-105 transition-transform">Login</button>
+            </form>
+
+            <!-- Don't have an account and Register -->
+            <div class="flex justify-between items-center text-sm text-[#002D74]">
+                <p class="mx-auto">Don't have an account?
+                    <a href="#" class="hover:underline mx-auto text-red-600">Signup</a>
+                </p>
+            </div>
+
+            <div class="flex justify-center gap-8 mt-2">
+                <img class="w-36 h-10" src="../assets/dcism-logo.png" alt="DCISM Logo">
+                <img class="w-40 h-10" src="../assets/usc-logo.png" alt="USC Logo">
+            </div>
+        </div>
+
+        <!-- image -->
+        <div class="hidden md:block w-1/2">
+            <img class="rounded-2xl mx-auto" src="../assets/usc-banner.png" alt="USC Banner">
+        </div>
+    </section>
+</body>
+</html>

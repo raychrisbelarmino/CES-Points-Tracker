@@ -1,0 +1,16 @@
+{
+  "name": "ces-points-tracker",
+  "version": "1.0.0",
+  "description": "Welcome to the USC DCISM CES Point Tracker! Your ultimate tool for effortlessly tracking and managing CES points throughout your journey at the University of San Carlos DCISM. Stay on top of your progress, explore exciting events, and ensure you meet your CES goals—right from this streamlined, user-friendly platform designed to support you every step of the way!",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./public/css/styles.css -o ./public/css/output.css --minify",
+    "start": "live-server public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.14"
+  }
+}

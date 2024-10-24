@@ -2,7 +2,7 @@
 
 Welcome to the USC DCISM CES Point Tracker! Your ultimate tool for effortlessly tracking and managing CES points throughout your journey at the University of San Carlos DCISM. Stay on top of your progress, explore exciting events, and ensure you meet your CES goals—right from this streamlined, user-friendly platform designed to support you every step of the way!
 
-![USC and CES Logo](https://scontent.fceb3-1.fna.fbcdn.net/v/t39.30808-6/429658365_893041722619497_5672620878793905378_n.png?_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=YR9ILqfhZikQ7kNvgGw8MRb&_nc_zt=23&_nc_ht=scontent.fceb3-1.fna&_nc_gid=A3PovuMnP-3VExWefuSkYf_&oh=00_AYBhvqk0Rc22z4d5qyrVXTAYAA4UVyqefHrNpDZbJxaqMA&oe=67192D1F)
+![USC and CES Logo](![image](https://github.com/user-attachments/assets/91fa9b22-dff4-4dcf-aa9a-52a8df68980c))
 
 ![DCISM Logo](https://scontent.fceb3-1.fna.fbcdn.net/v/t1.6435-9/78839585_10216050436595669_3429833652769390592_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=25d718&_nc_ohc=K_WMw4Kv40EQ7kNvgGg91ke&_nc_zt=23&_nc_ht=scontent.fceb3-1.fna&_nc_gid=A0L8IiW250ubetiiNq4s_EY&oh=00_AYAXYozsd2odrs5ndtVw_Tn_WgsCWEm40Ri3BUwm8w2WYw&oe=673AB38C "This is a sample image.")
 ## About DCISM CES Point Tracker
